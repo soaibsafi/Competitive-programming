@@ -1,6 +1,7 @@
 # :sparkles:List of the Codes :sparkles:
 ### :rocket:Python:rocket:
 #### :pushpin: [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)
+#### :pushpin: [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)
 #### :pushpin: [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)
 #### :pushpin: [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
 #### :pushpin: [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)
@@ -11,6 +12,7 @@
 #### :pushpin: [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)
 #### :pushpin: [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
 #### :pushpin: [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)
+#### :pushpin: [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)
 #### :pushpin: [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)
 #### :pushpin: [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
 #### :pushpin: [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)
