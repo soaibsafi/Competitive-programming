@@ -1,5 +1,6 @@
 # :sparkles:List of the Codes :sparkles:
 ### :rocket:Python:rocket:
+#### :pushpin: [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
 #### :pushpin: [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)
 #### :pushpin: [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)
 #### :pushpin: [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)
@@ -10,8 +11,10 @@
 #### :pushpin: [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)
 #### :pushpin: [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
 #### :pushpin: [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)
+#### :pushpin: [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)
 #### :pushpin: [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
 #### :pushpin: [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)
+#### :pushpin: [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)
 #### :pushpin: [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)
 #### :pushpin: [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)
 #### :pushpin: [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
