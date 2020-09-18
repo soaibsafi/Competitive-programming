@@ -3,7 +3,7 @@
 Created on Fri Sep 18 20:25:27 2020
 @author: Soaib
 Problem: Alphabet Rangoli
-Link: https://www.hackerrank.com/challenges/alphabet-rangoli/forum
+Link: https://www.hackerrank.com/challenges/alphabet-rangoli/problem
 """
 import string
 def print_rangoli(size):
