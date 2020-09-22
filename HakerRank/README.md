@@ -2,12 +2,14 @@
 ### :rocket:Python:rocket:
 #### :pushpin: [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
 #### :pushpin: [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)
+#### :pushpin: [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
 #### :pushpin: [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)
 #### :pushpin: [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)
 #### :pushpin: [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
 #### :pushpin: [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)
 #### :pushpin: [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
 #### :pushpin: [Lists](https://www.hackerrank.com/challenges/python-lists/problem)
+#### :pushpin: [Merge the Tools](https://www.hackerrank.com/challenges/merge-the-tools/problem)
 #### :pushpin: [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)
 #### :pushpin: [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
 #### :pushpin: [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)
@@ -19,5 +21,7 @@
 #### :pushpin: [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)
 #### :pushpin: [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
 #### :pushpin: [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)
-#### :pushpin: [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)
+#### :pushpin: [collections_counter](https://www.hackerrank.com/challenges/collections-counter/problem)
+#### :pushpin: [itertools_product.py](https://www.hackerrank.com/challenges/swap-case/problem)
+#### :pushpin: [sWAP cASE](https://www.hackerrank.com/challenges/itertools-product/problem)
 ### :fire:CPP:fire:
