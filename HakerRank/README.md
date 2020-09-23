@@ -22,6 +22,8 @@
 #### :pushpin: [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
 #### :pushpin: [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)
 #### :pushpin: [collections_counter](https://www.hackerrank.com/challenges/collections-counter/problem)
-#### :pushpin: [itertools_product.py](https://www.hackerrank.com/challenges/swap-case/problem)
+#### :pushpin: [itertools.combinations](https://www.hackerrank.com/challenges/itertools-combinations/problem)
+#### :pushpin: [itertools.permutations](https://www.hackerrank.com/challenges/itertools-permutations/problem)
+#### :pushpin: [itertools_product](https://www.hackerrank.com/challenges/itertools-product/problem)
 #### :pushpin: [sWAP cASE](https://www.hackerrank.com/challenges/itertools-product/problem)
 ### :fire:CPP:fire:
