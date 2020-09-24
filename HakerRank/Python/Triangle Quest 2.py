@@ -3,6 +3,8 @@
 Created on Thu Sep 24 17:16:57 2020
 
 @author: Soaib
+Problem: Triangle Quest 2
+Link: https://www.hackerrank.com/challenges/triangle-quest-2/problem
 """
 
 """
