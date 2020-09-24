@@ -26,4 +26,10 @@
 #### :pushpin: [itertools.permutations](https://www.hackerrank.com/challenges/itertools-permutations/problem)
 #### :pushpin: [itertools_product](https://www.hackerrank.com/challenges/itertools-product/problem)
 #### :pushpin: [sWAP cASE](https://www.hackerrank.com/challenges/itertools-product/problem)
+#### :pushpin: [Find Angle MBC]https://www.hackerrank.com/challenges/find-angle/problem)
+#### :pushpin: [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)
+#### :pushpin: [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
+#### :pushpin: [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)
+
+
 ### :fire:CPP:fire:
