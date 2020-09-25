@@ -30,6 +30,8 @@
 #### :pushpin: [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)
 #### :pushpin: [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
 #### :pushpin: [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)
+#### :pushpin: [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)
+
 
 
 ### :fire:CPP:fire:
