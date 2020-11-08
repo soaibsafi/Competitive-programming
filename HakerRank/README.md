@@ -1,15 +1,15 @@
 ## :boom:C
 
-[x] `hello_world.c` -> Problem: ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem)
-[x] `play_with_char.c` -> Problem: [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem)
-[x] `sum_difference.c` -> Problem: [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem)
+- [x] `hello_world.c` -> Problem: ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem)
+- [x] `play_with_char.c` -> Problem: [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem)
+- [x] `sum_difference.c` -> Problem: [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem)
 
 ## :boom:Data Structure
 
 ### Arrays
 
-[x] `array_ds.py` -> Problem: [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)
-[x] `2d_array_ds.py` -> Problem: [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)
+- [x] `array_ds.py` -> Problem: [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)
+- [x] `2d_array_ds.py` -> Problem: [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)
 
 ## :boom:Python
 
