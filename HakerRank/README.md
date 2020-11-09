@@ -157,9 +157,9 @@
 ### Numpy
 
 - [x] `Linear Algebra` -> Problem: [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)
-- [ ] todo -> Problem: [Arrays](https://www.hackerrank.com/challenges/np-arrays/problem)
-- [ ] todo -> Problem: [Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem)
-- [ ] todo -> Problem: [Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)
+- [x] `np_array.py` -> Problem: [Arrays](https://www.hackerrank.com/challenges/np-arrays/problem)
+- [x] `np_reshape` -> Problem: [Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem)
+- [x] `np_transpose_flatten.py` -> Problem: [Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)
 - [ ] todo -> Problem: [Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem)
 - [ ] todo -> Problem: [Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
 - [ ] todo -> Problem: [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)
