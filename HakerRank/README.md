@@ -93,6 +93,8 @@
 - [x] `deque.py` -> Problem: [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)
 - [x] `word_order.py` -> Problem: [Word Order](https://www.hackerrank.com/challenges/word-order/problem)
 - [x] `letter_count.py` -> Problem: [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)
+- [x] `pilling_up_deque.py` -> Problem: [Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)
+
 
 
 ### Date and Time
@@ -107,8 +109,8 @@
 
 ### Classes
 
-- [ ] todo -> Problem: [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problemsd)
-- [ ] todo -> Problem: [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)
+- [x] `complex_number.py` -> Problem: [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problemsd)
+- [x] `torsional_angle.py` -> Problem: [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)
 
 ### Build-Ins
 
