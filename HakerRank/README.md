@@ -167,14 +167,14 @@
 - [x] `np_concatenate.py` -> Problem: [Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem)
 - [x] `np_zeros_ones.py` -> Problem: [Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
 - [x] `np_eye.py` -> Problem: [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)
-- [ ] todo -> Problem: [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
-- [ ] todo -> Problem: [Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)
-- [ ] todo -> Problem: [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)
-- [ ] todo -> Problem: [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem)
-- [ ] todo -> Problem: [Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)
-- [ ] todo -> Problem: [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)
-- [ ] todo -> Problem: [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)
-- [ ] todo -> Problem: [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem)
+- [x] `np_mathematics.py` -> Problem: [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
+- [x] `np_floor_ceil_rint.py` -> Problem: [Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)
+- [x] `np_sum_prod.py` -> Problem: [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)
+- [x] `np_min_max.py` -> Problem: [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem)
+- [x] `np_mean_var_std.py` -> Problem: [Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)
+- [x] `np_dot_cross.py` -> Problem: [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)
+- [x] `np_inner_outer.py` -> Problem: [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)
+- [x] `np_polynomial.py` -> Problem: [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem)
 
 ### Debugging
 
