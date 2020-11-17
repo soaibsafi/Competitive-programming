@@ -83,6 +83,8 @@
 - [x] `combinations_with_replacement.py` -> Problem: [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)
 - [x] `itertools_permutations.py` -> Problem: [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)
 - [x] `itertools_product.py` -> Problem: [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)
+- [x] `iterable_iterator.py` -> Problem: [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
+- [x] `iter_product.py` -> Problem: [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)
 
 ### Collections
 
