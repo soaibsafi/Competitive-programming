@@ -138,7 +138,7 @@
 - [x] `re_findall_finditer.py` -> Problem: [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)
 - [x] `re_start_end.py` -> Problem: [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem)
 - [ ] todo -> Problem: [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem)
-- [ ] todo -> Problem: [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem)
+- [x] `roman_number_validator.py` -> Problem: [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem)
 - [ ] todo -> Problem: [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
 - [ ] todo -> Problem: [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
 - [ ] todo -> Problem: [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem)
