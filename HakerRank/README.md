@@ -142,7 +142,7 @@
 - [ ] todo -> Problem: [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
 - [ ] todo -> Problem: [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
 - [ ] todo -> Problem: [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem)
-- [ ] todo -> Problem: [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code/problem)
+- [x] `re_hex_color.py` -> Problem: [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code/problem)
 - [ ] todo -> Problem: [HTML Parser - Part 1](https://www.hackerrank.com/challenges/html-parser-part-1/problem)
 - [ ] todo -> Problem: [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2/problem)
 - [ ] todo -> Problem: [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem)
