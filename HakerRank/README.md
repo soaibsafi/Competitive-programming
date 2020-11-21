@@ -139,7 +139,7 @@
 - [x] `re_start_end.py` -> Problem: [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem)
 - [ ] todo -> Problem: [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem)
 - [x] `roman_number_validator.py` -> Problem: [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem)
-- [ ] todo -> Problem: [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
+- [x] `re_phone_validator.py` -> Problem: [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
 - [ ] todo -> Problem: [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
 - [ ] todo -> Problem: [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem)
 - [x] `re_hex_color.py` -> Problem: [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code/problem)
