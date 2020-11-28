@@ -145,7 +145,7 @@
 - [x] `re_hex_color.py` -> Problem: [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code/problem)
 - [x] `re_html_parse1.py` -> Problem: [HTML Parser - Part 1](https://www.hackerrank.com/challenges/html-parser-part-1/problem)
 - [x] `re_html_parse2.py` -> Problem: [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2/problem)
-- [ ] todo -> Problem: [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem)
+- [x] `re_html_parse3.py` -> Problem: [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem)
 - [ ] todo -> Problem: [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem)
 - [ ] todo -> Problem: [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number/problem)
 - [ ] todo -> Problem: [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode/problem)
