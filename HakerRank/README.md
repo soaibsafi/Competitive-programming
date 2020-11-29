@@ -152,7 +152,7 @@
 - [ ] todo -> Problem: [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem)
 
 ### XML
-- [ ] todo -> Problem: [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem)
+- [x] `re_xml1.py` -> Problem: [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem)
 - [ ] todo -> Problem: [XML2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem)
 
 ### Closures and Decorators
