@@ -159,7 +159,7 @@
 ### Closures and Decorators
 
 - [x] `standarize_mobile_no.py` -> Problem: [Standardize Mobile Number Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem)
-- [ ] todo -> Problem: [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem)
+- [x] `decorator2` -> Problem: [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem)
 
 ### Numpy
 
