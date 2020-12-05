@@ -126,7 +126,7 @@
 ### Python Functionals
 
 - [x] `map_lambda.py` -> Problem: [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)
-- [ ] todo -> Problem: [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem)
+- [x] `reduce_function.py` -> Problem: [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem)
 - [x] `email_validation.py` -> Problem: [Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)
 
 
