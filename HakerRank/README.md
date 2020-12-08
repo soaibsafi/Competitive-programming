@@ -137,7 +137,7 @@
 - [x] `re_groups.py` -> Problem: [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem)
 - [x] `re_findall_finditer.py` -> Problem: [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)
 - [x] `re_start_end.py` -> Problem: [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem)
-- [ ] todo -> Problem: [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem)
+- [x] `re_substitution.py` -> Problem: [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem)
 - [x] `roman_number_validator.py` -> Problem: [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem)
 - [x] `re_phone_validator.py` -> Problem: [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
 - [ ] todo -> Problem: [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
