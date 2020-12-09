@@ -140,16 +140,15 @@
 - [x] `re_substitution.py` -> Problem: [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem)
 - [x] `roman_number_validator.py` -> Problem: [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem)
 - [x] `re_phone_validator.py` -> Problem: [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
-- [ ] todo -> Problem: [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
 - [x] `re_parse_email.py` -> Problem: [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem)
 - [x] `re_hex_color.py` -> Problem: [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code/problem)
 - [x] `re_html_parse1.py` -> Problem: [HTML Parser - Part 1](https://www.hackerrank.com/challenges/html-parser-part-1/problem)
 - [x] `re_html_parse2.py` -> Problem: [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2/problem)
 - [x] `re_html_parse3.py` -> Problem: [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem)
 - [x] `re_validating_uid.py` -> Problem: [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem)
-- [ ] todo -> Problem: [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number/problem)
-- [ ] todo -> Problem: [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode/problem)
-- [ ] todo -> Problem: [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem)
+- [x] `re_credit_card.py` -> Problem: [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number/problem)
+- [x] `re_postal_code.py` -> Problem: [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode/problem)
+- [x] `re_martix_script.py` -> Problem: [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem)
 
 ### XML
 
@@ -181,15 +180,7 @@
 
 ### Debugging
 
-- [ ] todo -> Problem: [Words Score](https://www.hackerrank.com/challenges/words-score/problem)
-- [ ] todo -> Problem: [Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)
-- [ ] todo -> Problem: [Print](gsd)
-- [ ] todo -> Problem: [Print](gsd)
-- [ ] todo -> Problem: [Print](gsd)
-- [ ] todo -> Problem: [Print](gsd)
-- [ ] todo -> Problem: [Print](gsd)
-- [ ] todo -> Problem: [Print](gsd)
-- [ ] todo -> Problem: [Print](gsd)
-- [ ] todo -> Problem: [Print](gsd)
+- [x] `debug_word_score.py` -> Problem: [Words Score](https://www.hackerrank.com/challenges/words-score/problem)
+- [x] `debug_default_argument.py` -> Problem: [Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)
 
 ## :boom:CPP
