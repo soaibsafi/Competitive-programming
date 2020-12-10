@@ -5,6 +5,8 @@
 - [x] `sum_difference.c` -> Problem: [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem)
 - [x] `function.c` `function_2.c` -> Problem: [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)
 - [x] `pointer.c` -> Problem: [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem)
+- [x] `conditional.c` -> Problem: [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem)
+
 
 ## :boom:Data Structure
 
