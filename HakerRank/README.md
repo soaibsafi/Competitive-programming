@@ -6,6 +6,7 @@
 - [x] `function.c` `function_2.c` -> Problem: [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)
 - [x] `pointer.c` -> Problem: [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem)
 - [x] `conditional.c` -> Problem: [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem)
+- [x] `loop.c` -> Problem: [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)
 
 
 ## :boom:Data Structure
