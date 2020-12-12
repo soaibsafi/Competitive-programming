@@ -7,6 +7,7 @@
 - [x] `pointer.c` -> Problem: [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem)
 - [x] `conditional.c` -> Problem: [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem)
 - [x] `loop.c` -> Problem: [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)
+- [x] `sum_five.c` -> Problem: [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem)
 
 
 ## :boom:Data Structure
