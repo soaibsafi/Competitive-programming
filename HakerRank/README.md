@@ -9,6 +9,7 @@
 - [x] `loop.c` -> Problem: [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)
 - [x] `sum_five.c` -> Problem: [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem)
 - [x] `bitwise_operator.c` -> Problem: [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem)
+- [x] `pattern_print.c` -> Problem: [Printing Pattern Using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem)
 
 
 ## :boom:Data Structure
