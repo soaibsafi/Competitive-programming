@@ -12,6 +12,7 @@
 -   [x] `pattern_print.c` -> Problem: [Printing Pattern Using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem)
 -   [x] `reversal_array.c` -> Problem: [Array Reversal](hhttps://www.hackerrank.com/challenges/reverse-array-c/problem)
 -   [x] `split_tocken.c` -> Problem: [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem)
+-   [x] `digit_frequency.c` -> Problem: [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem)
 
 ## :boom:Data Structure
 
