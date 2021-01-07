@@ -13,6 +13,7 @@
 -   [x] `reversal_array.c` -> Problem: [Array Reversal](hhttps://www.hackerrank.com/challenges/reverse-array-c/problem)
 -   [x] `split_tocken.c` -> Problem: [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem)
 -   [x] `digit_frequency.c` -> Problem: [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem)
+-   [x] `dynamic_array.c` -> Problem: [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem)
 
 ## :boom:Data Structure
 
