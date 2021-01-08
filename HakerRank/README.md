@@ -14,6 +14,7 @@
 -   [x] `split_tocken.c` -> Problem: [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem)
 -   [x] `digit_frequency.c` -> Problem: [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem)
 -   [x] `dynamic_array.c` -> Problem: [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem)
+-   [x] `ninth_term.c` -> Problem: [Calculate the Nth term](https://www.hackerrank.com/challenges/recursion-in-c/problem)
 
 ## :boom:Data Structure
 
