@@ -15,6 +15,7 @@
 -   [x] `digit_frequency.c` -> Problem: [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem)
 -   [x] `dynamic_array.c` -> Problem: [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem)
 -   [x] `ninth_term.c` -> Problem: [Calculate the Nth term](https://www.hackerrank.com/challenges/recursion-in-c/problem)
+-   [x] `students_marks_sum.c` -> Problem: [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem)
 
 ## :boom:Data Structure
 
